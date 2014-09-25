@@ -1,4 +1,9 @@
-Estrutura-de-dados
+Universidade Federal da Bahia
+Instituto de Matemática
+Departamento de Ciência da Computação
+Disciplina: Estrutura de Dados I (MATA40)
+Aluno: Pedro Gabriel Carrano 
+
 ==================
 
-Repositório da Disciplina Estrutura de Dados (MATA40)
+Repositório de Atividades da Disciplina Estrutura de Dados (MATA40)
